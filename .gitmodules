@@ -1,0 +1,3 @@
+[submodule "Foxhole-Automation-Scripts"]
+	path = Foxhole-Automation-Scripts
+	url = https://github.com/Foxhole-Modding/Foxhole-Automation-Scripts.git
